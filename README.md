@@ -1,4 +1,4 @@
-# MB-2019-vote-transposition
+# Manitoba-vote-transposition-2018-boundaries
 The results of this analsyis lead to the following story:<br>
 <a href="https://www.cbc.ca/news/canada/manitoba/new-manitoba-election-boundaries-give-upper-hand-to-progressive-conservatives-cbc-news-analysis-finds-1.5260821">New Manitoba election boundaries give upper hand to Progressive Conservatives, CBC News analysis finds</a>
 
