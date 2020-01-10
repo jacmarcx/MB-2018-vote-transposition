@@ -41,7 +41,7 @@ Unlike political parties, members of the public and media do not have access to 
 
 <img src="./images/election_canada_diagram.PNG" width="350"><br>
 
-By eliminating surface area in the province without residential properties, which is the next best possible approach using public data, the accuracy of the analysis is dramatically increased compared to other vote transpositions that simply rely surface area. 
+By eliminating surface area in the province without residential properties, which is the next best possible approach using public data, the accuracy of the analysis is dramatically increased compared to other vote transpositions that simply rely on surface area. 
 
 In addition, an increasing number of Manitobans don't vote at a polling station on election day. For advance voters, write-in ballots and other non-election-night voting methods, the results were divvied up proportionally across the electoral division's populated voting areas.
 
